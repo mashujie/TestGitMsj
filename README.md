@@ -1,3 +1,3 @@
 # TestGitMsj
 TestGitMsj
-TestGitMsj_update
+TestGitMsj_update_msj
